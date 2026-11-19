@@ -10,14 +10,23 @@ device.
 Have you developed an app? Send us a pull request to add it to the list.
 
 
-## Apps List
+
+## Metal-16 Apps List
 
 ### Getting Started / Templates
 
 - [App Template](https://github.com/Elemenity/metal-template-app)
 
+
 ### Games
+
 
 ### Utilities
 
 ### Other
+
+___
+
+## Apps for the DIY / prototype board
+
+- [Falling Blocks](/bins/blocks.prototype.bin)
