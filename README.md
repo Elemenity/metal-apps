@@ -34,4 +34,6 @@ ___
 - [LED Blink](/bins/led_blink.prototype.bin)
 - [BTN LED](/bins/btn_led.prototype.bin)
 - [Screen White](/bins/screen_white.prototype.bin)
+- [Screen Checkerboard](/bins/screen_checker.prototype.bin)
+- [Screen Bar](/bins/screen_bar.prototype.bin)
 - [Falling Blocks](/bins/blocks.prototype.bin)
