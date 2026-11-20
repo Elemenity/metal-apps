@@ -32,4 +32,5 @@ ___
 - [LED On](/bins/led_pa5_on.prototype.bin)
 - [LED Off](/bins/led_pa5_on.prototype.bin)
 - [LED Blink](/bins/led_blink.prototype.bin)
+- [BTN LED](/bins/btn_led.prototype.bin)
 - [Falling Blocks](/bins/blocks.prototype.bin)
