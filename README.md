@@ -27,7 +27,7 @@ Have you developed an app? Send us a pull request to add it to the list.
 
 ___
 
-## Apps for the DIY / prototype board
+## Apps for the [DIY / prototype board](https://emulationonline.com/shop/pocket-computer-diy-guide/)
 
 - [LED On](/bins/led_pa5_on.prototype.bin)
 - [LED Off](/bins/led_pa5_on.prototype.bin)
