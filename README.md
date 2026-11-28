@@ -22,6 +22,7 @@ Have you developed an app? Send us a pull request to add it to the list.
 
 
 ### Utilities
+- [Keypad test](https://github.com/Elemenity/metal-template-app/blob/main/src/keypad_test.rs)
 
 ### Other
 
