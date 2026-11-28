@@ -2,8 +2,10 @@
 
 This repository contains a list of apps developed for the [Metal16 platform](https://metal-hw.com).
 
-These can be played locally, in the web based player, or on your Metal16
-device.
+These can be played:
+- Locally (`make sim`),
+- In the [web based player](https://metal-hw.com/emulator/), or
+- On your [Metal16](https://metal-hw.com) device.
 
 ## Contributing
 
