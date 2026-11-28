@@ -19,6 +19,7 @@ Have you developed an app? Send us a pull request to add it to the list.
 
 
 ### Games
+- [Tennis (2 Players)](https://github.com/Elemenity/metal-template-app/blob/main/src/tennis.rs)
 
 
 ### Utilities
